@@ -44,8 +44,11 @@ Step 8: Displays image description
 
 ## Use Cases
 Personal Assistance: Identify objects in real-time and provide relevant information, making it an ideal tool for visually impaired individuals or for quick identification of unfamiliar items.
+
 Retail and Shopping: Enhance shopping experiences with features like product recognition, price comparison, and the upcoming virtual try-on system for clothing, accessories, and eyewear.
+
 Education and Training: Facilitate interactive learning by overlaying digital information on physical objects, such as anatomical models for medical students or machinery parts for engineering trainees.
+
 Workplace Productivity: Enable hands-free object recognition and real-time data access, ideal for industrial environments, inventory management, and fieldwork operations.
 Travel and Navigation:Offer real-time object recognition to identify landmarks, translate text on signage, or provide contextual information during tours.
 ## Future Enhancements
