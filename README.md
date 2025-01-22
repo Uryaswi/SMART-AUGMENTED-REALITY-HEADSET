@@ -40,6 +40,16 @@ step 7: when match found, image is recognized and it fetches the image descripti
 Step 8: Displays image description   
 
 ### System Architecture
+<img width="374" alt="Screenshot 2025-01-22 144356" src="https://github.com/user-attachments/assets/e9a1dca3-6a7b-4576-8f1d-f3c08af689de" />
 
-
+## Use Cases
+Personal Assistance: Identify objects in real-time and provide relevant information, making it an ideal tool for visually impaired individuals or for quick identification of unfamiliar items.
+Retail and Shopping: Enhance shopping experiences with features like product recognition, price comparison, and the upcoming virtual try-on system for clothing, accessories, and eyewear.
+Education and Training: Facilitate interactive learning by overlaying digital information on physical objects, such as anatomical models for medical students or machinery parts for engineering trainees.
+Workplace Productivity: Enable hands-free object recognition and real-time data access, ideal for industrial environments, inventory management, and fieldwork operations.
+Travel and Navigation:Offer real-time object recognition to identify landmarks, translate text on signage, or provide contextual information during tours.
 ## Future Enhancements
+We are actively exploring additional use cases, including the development of a virtual try-on system for enhanced user interaction. Due to ongoing development, the source code is currently private.
+
+## Acknowledgement
+We extend our heartfelt gratitude to the Calcutta Institute of Engineering and Management for providing us with the opportunity to work on this project as part of our final year curriculum. Their guidance and support have been invaluable throughout this journey.
