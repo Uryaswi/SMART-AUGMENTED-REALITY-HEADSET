@@ -15,9 +15,13 @@ To complement this, we have developed a user-friendly Android application that c
 
 ### Software Requirement
 Operating System required: Android , windows 10 or 11
+
 Programming language used – Java
+
 Packages and library – Firebase ML Kit for image recognition ,
+
 Firebase ml kit -for vision 24.1.1,
+
 Volley library : Used specifically  for json parsing .
 
 ## Object Recognition and Tracking System
